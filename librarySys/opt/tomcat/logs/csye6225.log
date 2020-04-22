@@ -1,0 +1,59 @@
+2020-04-18 00:22:15,214 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28238 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:22:15,218 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:22:15,219 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:25:24,954 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28263 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:25:24,958 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:25:24,959 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:25:26,397 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.609 seconds (JVM running for 2.391)
+2020-04-18 00:36:45,948 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28478 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:36:45,953 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:36:45,954 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:36:47,463 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.84 seconds (JVM running for 2.629)
+2020-04-18 00:38:17,555 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28484 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:38:17,558 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:38:17,559 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:38:19,227 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.83 seconds (JVM running for 2.377)
+2020-04-18 00:44:23,610 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication v0.0.1-SNAPSHOT on Junjies-MacBook-Pro.local with PID 28565 (/Users/junjie/CSYE7220Lab/final/librarySys/target/ccwebapp-0.0.1-SNAPSHOT.jar started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:44:23,616 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:44:23,617 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:44:25,616 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 2.269 seconds (JVM running for 3.238)
+2020-04-18 00:46:33,006 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication v0.0.1-SNAPSHOT on Junjies-MacBook-Pro.local with PID 28608 (/Users/junjie/CSYE7220Lab/final/librarySys/target/ccwebapp-0.0.1-SNAPSHOT.jar started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:46:33,012 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:46:33,013 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:46:35,074 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 2.304 seconds (JVM running for 3.165)
+2020-04-18 00:48:43,430 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication v0.0.1-SNAPSHOT on Junjies-MacBook-Pro.local with PID 28658 (/Users/junjie/CSYE7220Lab/final/librarySys/target/ccwebapp-0.0.1-SNAPSHOT.jar started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:48:43,437 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:48:43,439 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:48:45,499 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 2.345 seconds (JVM running for 3.083)
+2020-04-18 00:56:50,415 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28695 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:56:50,419 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:56:50,420 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:56:51,878 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.637 seconds (JVM running for 2.414)
+2020-04-18 00:57:42,771 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28705 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:57:42,776 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:57:42,776 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:57:44,220 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.618 seconds (JVM running for 2.239)
+2020-04-18 00:58:30,923 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28711 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 00:58:30,927 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 00:58:30,927 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 00:58:32,666 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.901 seconds (JVM running for 2.508)
+2020-04-18 01:01:54,791 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28728 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 01:01:54,794 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 01:01:54,795 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 01:01:56,332 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.713 seconds (JVM running for 2.43)
+2020-04-18 01:02:04,051 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28733 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 01:02:04,056 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 01:02:04,057 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 01:02:05,559 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.701 seconds (JVM running for 2.286)
+2020-04-18 01:02:29,151 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28738 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 01:02:29,156 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 01:02:29,157 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 01:02:30,773 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.799 seconds (JVM running for 2.373)
+2020-04-18 01:03:26,025 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication on Junjies-MacBook-Pro.local with PID 28755 (/Users/junjie/CSYE7220Lab/final/librarySys/target/classes started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 01:03:26,028 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 01:03:26,029 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 01:03:27,689 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 1.823 seconds (JVM running for 2.393)
+2020-04-18 01:04:38,036 INFO o.s.b.StartupInfoLogger [main] Starting CcwebappApplication v0.0.1-SNAPSHOT on Junjies-MacBook-Pro.local with PID 28789 (/Users/junjie/CSYE7220Lab/final/librarySys/target/ccwebapp-0.0.1-SNAPSHOT.jar started by junjie in /Users/junjie/CSYE7220Lab/final/librarySys)
+2020-04-18 01:04:38,043 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2020-04-18 01:04:38,044 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-04-18 01:04:40,095 INFO o.s.b.StartupInfoLogger [main] Started CcwebappApplication in 2.311 seconds (JVM running for 3.298)
