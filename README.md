@@ -6,6 +6,7 @@
     * `ansible-playbook -v setup-k8s-cluster.yml --extra-var "@extra_vars.json" `
     * `ansible-playbook -v create-rds.yml --extra-var "@extra_vars.json"`
     * Establish peering connection to connect k8s vpc with database vpc
+    * Add 0.0.0.0/0 to the k8s route table as internet gateway
 
 ## Install logging part including ElasticSearch, Kibana and Fluentd
 1. Go to helm-charts folder
